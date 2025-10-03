@@ -144,9 +144,8 @@ color: white;
   background-repeat: no-repeat;
   cursor: pointer;
   width: 80px;
-  position: absolute;
-  left:  55%;
-  top: 25%;
+  position: relative;
+  left:  50%;
 }
 
 .home-button{
@@ -169,6 +168,7 @@ color: white;
   left:  40%;
   top: 25%;
 }
+
 
 
 
