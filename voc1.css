@@ -8,6 +8,7 @@ body{
   align-items: center;
   min-height: 100vh;
   flex-direction: column;
+  overflow: hidden;
 
 }
 
@@ -168,6 +169,7 @@ color: white;
   left:  40%;
   top: 25%;
 }
+
 
 
 
