@@ -164,10 +164,11 @@ color: white;
   background-repeat: no-repeat;
   cursor: pointer;
   width: 80px;
-  position: absolute;
+  /* position: absolute; */
   left:  40%;
   top: 25%;
 }
+
 
 
 
